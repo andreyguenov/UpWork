@@ -3,7 +3,9 @@ Hey there! You have probably come here from UpWork. Welcome! Since UpWork only a
 
 Best, Andrey. 
 
-# LEAN STARTUP METHODOLOGY
+# The Startup Process
+
+## LEAN STARTUP METHODOLOGY
 Before we begin with the startup stages, a few words about methodologies and LEAN in particular. We have all heard about it, read about it, and been forced to listen to somebody explain it at a networking mixer, but in my experience, LEAN works. Or, at the very least I have used some Lean concepts in my own projects and have achieved good results. It is understandable to not want to be bound by a single ideology, but Lean (and some Agile) principles in the very least should be carefully discussed and considered as parts of your overall approach and startup strategy. To summarize LEAN, you are on a mission to gain knowledge fast. Specifically, you want to gain the knowledge which will allow you to unlock a winning combination of a product and customers who will pay for it. In startups, there is normally a large degree of uncertainty and a lot of unknowns and variables that you have to tackle. Little by little you have to start to fill in the blanks through careful testing, validated learning, and feedback loops - once you have answers, you start weaving them into your strategy. The more you know, the more informed your decisions are going to be. This means better resource allocation, better strategic moves, and more useful analytics. As the Build/Measure/Learn feedback loop gains momentum, you will begin to validate ideas with minimum temporal and financial investment. By creating minimum viable products you will be delivering absolute core functionality to customers to gain feedback, eventually reaching a working model for your startup, which might even differ from what you set out for initially. Any change in any layer of your business should be well informed, well through-out, tested, and, if it passess all tests, welcomed. Failing to (plan to) learn is a surefire way to increase your odds of having a difficult time in your venture and I always suggest incorporating learning into any startup’s model. Based on where you are in your project and your specific needs, I will work with you to identify crucial knowledge gaps, fast ways to fill them in, and how to restructure your strategy based on the new information.
 
   
@@ -15,7 +17,7 @@ The first stage in the startup lifecycle is all about finding great ideas, refin
   
   
 
-# PROTOTYPING
+## PROTOTYPING
 Following up from the previous step, the prototyping stage should come into play after you’re satisfied with your business concept, MVP tests, analytics results, and all supporting documentation and paraphernalia. Prototyping involves further fleshing out your product through R&D activities, tests, and analytics. The goal of the prototyping stage is to make a more sophisticated version of a proven (to a degree) product so that you can make more and more specific usability and market acceptance tests on your way to launching. This process will also fuel the production/development/logistics stage with valuable input into which features are important (core) and which are not, and a more fleshed out design. For companies without a ready product or who are trying to create a new product, this can often be a very useful step to take before going into full blown production. I have extensive experience in prototyping both software and tangible products from my work on many software development projects (defining and building MVPs, running A/B split tests, analytics and analysis, etc. for digital services such as web apps, mobile apps, software, and SaaS), to prototyping tangible goods with my 3D printing business for a variety of manufacturing and R&D business clients. Through prototyping you gradually, and with comparably little risk, build something which represents chosen important aspects of your vision. Little by little, using this partial representation, you will be able to gather feedback, conduct tests, and gradually refine it by adding, changing or removing features and design aspects. I am an advocate for taking these extra steps as they contribute to building a strong, refined vision and product. By the time you are done with the prototyping and testing process, you will have a much more detailed and informed idea about what your product will look like, why it should be the way that it is, and how it will be used to fulfil its role for its customers and users.
 
 
@@ -24,7 +26,7 @@ Following up from the previous step, the prototyping stage should come into play
   
   
 
-# PRODUCT MARKET FIT AND USER ACCEPTANCE TESTING
+## PRODUCT MARKET FIT AND USER ACCEPTANCE TESTING
 
 Running tests is imperative to gathering information. With the right kind of practical knowledge derived from a sound source, you will be well positioned to overcome a growth barrier, launch a product, optimize a process, shift team dynamics, and more. Testing is an integral part of the previous two stages - ideation and prototyping - and should be present in all stages of your business strategy. We will be conducting tests in a variety of ways to reach our information goals. As a prerequisite, it will be good to establish connections or channels to the target audience as a way to poll potential users for valuable input. The quality of the interaction is of importance - we have to navigate the spectrum starting from handing out fliers to sitting down with a customer of a focused one-on-one and from mass campaigns to finding our users ourselves. For example, the people with whom we can talk face to face or over conference call will be some of the most useful beta testers as the quality of communication is high. In most cases, the quality of our communication and questions will determine the quality of the response we get, so we have to be very careful in setting up the experiment. We can get very creative with how we run our tests, but we can help our cause by aiming to follow a set of good practices:
 
@@ -63,7 +65,7 @@ The goal of this stage is to find out the answers to important questions. In fac
   
   
 
-# PRODUCTION AND LOGISTICS
+## PRODUCTION AND LOGISTICS
 
 Assuming your product is tangible, it will require a sound production and logistics system to transform the prototype into a product which can be (mass)produced to a singular high quality standard, and later distributed efficiently.
 
@@ -82,14 +84,14 @@ Testing and learning should not stop while production is going on. What free tim
   
   
 
-# BRANDING  AND DESIGN STRATEGY
+## BRANDING  AND DESIGN STRATEGY
 
 Having a consistent, unified, and visually appealing branding and design strategy has many benefits and could be as simple as a good quality logo, company fonts, and a company colour scheme paired with some good design practices for spacing and type sizes. I make sure to spend the necessary time and effort to compile a design strategy for every project I am a part of. In my experience, with minimal effort and by simply making and following a set of design guidelines you can create a good visual identity and make following it easy. Since your branding will go on all your documentation, websites, paper forms, and products, it will help make you recognizable and ensure that customers receive a unified experience through your many communication channels (especially useful when retargeting customers from one channel to another). Building a design strategy is a negligible amount of work for something with very far-reaching benefits. My extensive experience with graphic design and startup branding makes me a good fit to lead, structure and contribute to your branding project by organising freelancers and curating proposed designs for review, thus saving you time in organisational activities.
 
   
   
 
-# MARKETING
+## MARKETING
 
 Marketing is a huge area of business management, and without getting into too many technicalities and semantics, we will be focusing on the practical: our goal will be to do our research on your product, clients, and market, prepare your offering, find potential clients to show it to, determine the channels via which we will show them your offering, and have some of those people enter our sales funnel as promising leads. In short - we want to show potential clients what we have and turn them into actual clients. (I have taken the second part - actually selling the product - out into its own stage, since in my experience both areas are big and varied enough to warrant this split for the sake of thoroughness and productivity, and focusing on each one individually usually brings better results.) The name of the game is “small tests” and finding what works fast, without spending too much. This is a simplification of the process, but it is a good structure and boilerplate template to build upon. Eventually, our strategy might grow more complex - one example would be to prepare multiple interactions with the same customer group (i.e. via retargeted ads) which will start by informing, building trust, and establishing credence and authority, and continue on to influencing buying choices and showcasing your product, all the way to closing the sale - but in the early stages simplicity is key. We should only arrive at complex solutions as a result of smaller, successfully working parts coming together. If you already have a marketing strategy and a sales funnel set up, we could analyze them to identify bottlenecks, analytics blank spots, and inefficiencies, and work to remove or remedy them to open up the way to scaling up your marketing and sales operation.
 
@@ -104,14 +106,14 @@ The goal of this stage, for new projects, will be to arrive at one good working 
   
   
 
-# CUSTOMER SERVICE
+## CUSTOMER SERVICE
 
 Every industry has barriers designed to make it difficult for new companies to differentiate themselves, establish competitive advantages, and gain market share. If you have something good, it makes sense to try and protect it. Fortunately for most new companies, nobody ever truly owns a market, and there are almost always things which consumers want that they aren’t getting. For having embarked on your entrepreneurial journey, you probably have confidence that you can do a better job in some area of your product or service than the current market incumbents. You might offer higher quality, lower prices, new and improved features, have more experience, have a better location, or any number of different advantages. Or you might not have all that at the moment, which is totally fine - it takes time - but you have some idea how to get there. Here is some good news: one area in which you can always excel, and realistically hope to do better, is customer service. I cannot stress how important it is to constantly strive to be the best company by customer service in your sector. Not second best, not top 5 - numero uno. Customer service is comprised of many small human acts and kindness done within firm boundaries of good will and compassion, conviction in the quality of your product, and good business practices. Even if you are in many ways the first company to solve a given problem, and people don’t have many other alternatives, you still want to provide excellent customer service - for many customers it is a defining factor in choosing their suppliers, and should you disregard this, your first competitor will have a very easy time snatching away market share. An industry where the incumbents are notorious for poor customer service is very vulnerable to newcomers who are willing to treat customers better. Good customer service also curates a loyal customer base which will work for you - recommending your company and purchasing additional products. We will look at your current customer service strategy and discuss best practices from my personal experience in manning the phone lines, building customer service guidelines, and having handled hundreds of customers personally. We will try our best to understand how a customer feels at every step of the process of interacting with your business and how we can best put them at ease, ensure that they have a great experience, and solve their problem for them in a way that leaves them happy. Good customer service is imperative to a strong sales strategy - this will lead to referrals, good reviews, and repeat business. By the end of this stage you should have a good idea about how you are going to go about interacting with customers, how you are going to handle different customer service scenarios, and what extra steps you can take to go above and beyond for your clients.
 
   
   
 
-# SALES
+## SALES
 
 Following our marketing activities, next we need to turn our attention to building a robust, adaptive, and most importantly functional sales strategy. Marketing leaves us with a value proposition packaged into products and services, market and customer data gathered through research and tests, and channels through which we can reach some of our potential customers to some degree of success. That’s a good start - these potential customers have been informed of and attracted to your solution. Next, you need to guide your potential customer to the sales event by working with them to reaffirm the value of your offering. Depending on your situation, this could be done via a series of meetings or a landing page with a couple of clicks. As with all stages thus far, our approach to sales will vary greatly based on where you are in your journey and whether you have an established sales strategy. Furthermore, your approach to sales should adapt to the realities around selling your product; the easiest example being that you would have a difficult time to effectively sell a traditionally retail product the same way you would go about selling enterprise solutions and vice versa. Retail and enterprise sales are a good example of different sales approaches. In retail sales we aim to sell one small thing to many customers while in enterprise sales, we maximize our engagement with a few big clients in order to sell something presumably big to them. Both approaches come with their specifics and they in many ways represent two ends on the spectrum of your engagement efforts with your client. For example, in trying to sell a paid AppStore SaaS application, your efforts might be better spent tuning your sales channel, value proposition, and free/paid feature mix on your app, rather than to go and try to sell it with personal meetings. As a counterpoint, if you have built a hotel management system - closer to an enterprise solution - it might be a good idea to set up meetings with local hotels. Sure, one day you will hopefully have hotels seeking you out (and you should be laying the groundwork for that) but in the beginning approaching sales hands-on would be a sure fire way to gain a lot of feedback on your product and value proposition, and get some paying clients and references. It’s important to do things which don’t scale, as Paul Graham says, and your first 10 and 100 clients might be hand-picked and costing 2 hours of engagement each, but it is equally as important to take a realistic look at your product and its market, and figure out the best way to go about conquering it, and then go above and beyond within that frame. Selling software also brings another layer of complexity which requires a different approach.
 
@@ -126,35 +128,35 @@ As a small side note, your sales could depend on distribution channels and partn
   
   
 
-# CLIENT FEEDBACK
+## CLIENT FEEDBACK
 
 Client feedback is of paramount importance. Think about it - this is a person who has probably gotten to know about you through your marketing channels, has purchased your product or service, and has experienced its benefits and downfalls in some way or another. They have bucketloads of very valuable information for you, and you would do well to gather as much of it as you possibly can. You have to be sure to reach out to clients and even consider offering incentives in return for answering some questions and sharing their experience. Don’t be afraid to ask for feedback - sometimes when you’ve worked so hard on a project you’re afraid of hearing something negative. Don’t let that fear guide your actions - embrace it instead. If the customer is unhappy it is your mission to learn why and to do your best to consider and remedy whatever has contributed to their bad experience. This mechanism of self improvement will propel your business forward. People are ready and willing to give second chances in most cases, so you will have your time to turn things around. Also, it goes without saying that it is likely that whatever upset one person might also upset another (excluding some edge cases). Other times customers will have good things to say or give you ideas about parallel services you could offer, and other times still they won’t have any thoughts on your performance whatsoever - that is OK too. You can’t please everybody, you can’t listen to everyone’s wishes, and you can’t implement all feature requests, but you can be open to praise and criticism, you can adopt a learning attitude, and you can try your best, within reason, to go that extra mile for the people you service.
 
   
   
 
-# DELIVERING
+## DELIVERING
 
 Depending on the type of product or service you offer, there might be additional work to be done for your clients after the sales event - for example, you might have to carry out a repair job, deliver goods, or install an appliance. Together we will go through your process of delivery and we will look to identify weak points to try and bring in extra efficiency to both save you resources and increase client satisfaction. We will also discuss implementing quality control to ensure the customer receives a full, complete service and a fully functional, working product.
 
   
   
 
-# PROCESS OPTIMIZATION
+## PROCESS OPTIMIZATION
 
 When a company starts to experience growth, processes are put into place to save time and resources. Furthermore, processes provide a unified way for employees to deal with common events and occurrences which is built according to company policy. Processes can be helpful, or they can be unhelpful and risk adding additional overhead, ambiguity, and delays if not configured correctly. We will go over your business functions and processes in an analytical way and aim to detect bottlenecks, processes which need to be simplified, or places where having a process will benefit your operations. This will be an exercise in optimisation - we will be looking at how we can make things work better and to potentially rework some of the processes you currently have in place. Making changes in processes will effectively require some degree of change management, so I can share my knowledge in advocating for and bringing change and innovation to newer and already established companies.
 
   
   
 
-# HR, HIRING, AND TEAM DYNAMICS
+## HR, HIRING, AND TEAM DYNAMICS
 
 Having a cohesive and well-put together team with good skills/responsibilities delegation will ensure smooth sailing through the uncertain and turbulent moments which await every startup. We will discuss your HR and hiring policies, current employees and team dynamics, responsibility distribution and work delegation, hiring and terminating new talent, working with freelancers and outsourcing, and employee incentives and motivation. My experience of building new teams and managing established ones in a myriad of companies will be useful during these stages.
 
   
   
 
-# SCALING UP
+## SCALING UP
 
 Growing is almost always good, but it’s important to control the pace at which you do so, the risks which you take, and to be able to effectively and predictably register growth spurs when it best suits you to do so. Scaling up and growing your business is dependant on several factors: having a stable, reliable marketing channel, a good grasp of your customer’s needs and wants, a functional sales strategy, outstanding customer service, clear, efficient, and well-placed processes, a strong, cohesive team with a clear division of responsibilities accepting of new employees, and the ability to deliver a high quality product or service and provide relevant maintenance. In fact, the steps I have presented thus far aim to set up exactly these fundamentals. If you’re already at this place before we have worked together, then we will take an analytical approach of going through your business (using the previous areas as a boilerplate structure) and aim to identify bottlenecks which are inhibiting your growth and ways to solve them, and opportunities for expansion.
 
@@ -169,7 +171,7 @@ Growing has a lot to do with measurements, analytics, and, as we have learned to
   
   
 
-# VC AND FUNDING
+## VC AND FUNDING
 
 First we need to figure out if VC and acquiring additional investments is the right path forward for you, for your co-founders, and for your company. If the circumstances do indeed point towards seeking outside investment, we will work to prepare an array of documentation and strategies to set us up for the first stages of looking for investors and entering negotiations. There are some important questions to ask and answer at this stage, such as: How much capital are you looking for in return for what percentage equity? Maybe debt financing is better? What is a realistic price someone will pay for 10% if your company? What are your financial forecasts and growth rate? Why do you need that investment and what are you going to do with it?. There may be even more questions depending on your specific situation and we should take the time to go through them and answer them diligently, as we will be asked a lot of these questions later.
 
@@ -187,19 +189,19 @@ When a deal moves forward after an investor has expressed interest, we will work
 
   
 
-# OTHERS - GENERAL BUSINESS STRATEGY
+## OTHERS - GENERAL BUSINESS STRATEGY
 
 General Business Strategy - tell me about where your business is heading. Let's consider the global and local economic climate, your local economic happenings and trends, and figure out the next steps for your enterprise. I can be a bouncing board for ideas, play devil’s advocate, help you brainstorm new directions, discuss and disassemble potential scenarios, and more.
 
   
 
-# PREIPHERAL SKILLSET
+## PREIPHERAL SKILLSET
 
 My peripheral skillset includes programming and IT/software development project management (I have written code for most of my startups - Java, JavaScript, C, C#, Swift, Arduino, HTML, CSS, Python, Node.JS, PHP, SQL), web design and CMS (I have created over 75 websites, most of which are running on customised WordPress), graphic and video design (I have done branding and creative work for most of my startups using Photoshop, AfterEffects, Lightroom, Illustrator), and advanced Office suite capabilities (though I’ve only seldom written custom VBA code) in Word, Powerpoint, Excel, and the Google Drive suite including Docs, Sheets, and Slides. I bring advanced automation skills with Zapier, IFTTT, DialogFlow, and WebMerge. Other software and services I am profficient in: Google Analytics and Search Console, Hubspot CRM, Facebook Ads, Instagram Ads, Trello, Buffer, and many others.
 
   
 
-# POPULAR QUESTIONS Q&A
+## POPULAR QUESTIONS Q&A
 
   
 
