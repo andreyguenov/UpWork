@@ -195,9 +195,9 @@ General Business Strategy - tell me about where your business is heading. Let's 
 
   
 
-## PREIPHERAL SKILLSET
+## PERIPHERAL SKILLSET
 
-My peripheral skillset includes programming and IT/software development project management (I have written code for most of my startups - Java, JavaScript, C, C#, Swift, Arduino, HTML, CSS, Python, Node.JS, PHP, SQL), web design and CMS (I have created over 75 websites, most of which are running on customised WordPress), graphic and video design (I have done branding and creative work for most of my startups using Photoshop, AfterEffects, Lightroom, Illustrator), and advanced Office suite capabilities (though I’ve only seldom written custom VBA code) in Word, Powerpoint, Excel, and the Google Drive suite including Docs, Sheets, and Slides. I bring advanced automation skills with Zapier, IFTTT, DialogFlow, and WebMerge. Other software and services I am profficient in: Google Analytics and Search Console, Hubspot CRM, Facebook Ads, Instagram Ads, Trello, Buffer, and many others.
+My peripheral skillset includes programming and IT/software development project management (I have written code for most of my startups - Java, JavaScript, C, C#, Swift, Arduino, HTML, CSS, Python, Node.JS, PHP, SQL), web design and CMS (I have created over 75 websites, most of which are running on customised WordPress), graphic and video design (I have done branding and creative work for most of my startups using Photoshop, AfterEffects, Lightroom, Illustrator), and advanced Office suite capabilities (though I’ve only seldom written custom VBA code) in Word, Powerpoint, Excel, and the Google Drive suite including Docs, Sheets, and Slides. I bring advanced automation skills to the table with Zapier, IFTTT, DialogFlow, and WebMerge. Other software and services I am proficient in: Google Analytics and Search Console, Hubspot CRM, Facebook Ads, Instagram Ads, Trello, Buffer, and many others.
 
   
 
